@@ -1,0 +1,2 @@
+game:GetService("VoiceChatService"):joinVoice()
+

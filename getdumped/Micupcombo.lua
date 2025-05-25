@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://ichfickdeinemutta.pages.dev/facefuck.lua"))()
+loadstring(game:HttpGet("https://ichfickdeinemutta.pages.dev/Gclone.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gi7331/scripts/main/Emote.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+loadstring(game:HttpGet("https://ichfickdeinemutta.pages.dev/Baseplate.lua"))()
